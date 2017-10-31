@@ -10,8 +10,10 @@ public class PlayerControls : MonoBehaviour
 	private float distFromGround;
 	private CapsuleCollider playerColl;
 	private Rigidbody playerRigBd;
-	public Text score;
-	private int counter;
+	public Text sushiScore;
+	private int sushiCounter;
+	public Text tempuraScore;
+	private int tempuraCounter;
 
 	//called before Update and after Awake
 	void Start ()
@@ -26,7 +28,8 @@ public class PlayerControls : MonoBehaviour
 
 		speed = 7.0f;
 		jumpVel = 5.0f;
-		counter = 0;
+		sushiCounter = 0;
+		tempuraCounter = 0;
 		DisplayScore ();
 		//in the unity editor, freeze rotation on x and z axes on the rigidbody on the player object
 	}
@@ -71,13 +74,20 @@ public class PlayerControls : MonoBehaviour
 	{
 		if (col.gameObject.CompareTag("sushi")) {
 			col.gameObject.SetActive (false);
-			counter++;
+			sushiCounter++;
+			DisplayScore ();
+		}
+		
+		if (col.gameObject.CompareTag("tempura")) {
+			col.gameObject.SetActive (false);
+			tempuraCounter++;
 			DisplayScore ();
 		}
 	}
 
 	void DisplayScore()
 	{
-		score.text = "Sushi: " + counter.ToString ();
+		sushiScore.text = "Sushi: " + sushiCounter.ToString ();
+		tempuraScore.text = "Tempura: " + tempuraCounter.ToString ();
 	}
 }
