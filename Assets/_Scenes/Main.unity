@@ -323,7 +323,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20a5099148874df4e917ebcccec48e71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
   score: {fileID: 345961249}
 --- !u!1 &208447462
 GameObject:
@@ -476,7 +475,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: Text
 --- !u!222 &345961250
 CanvasRenderer:
   m_ObjectHideFlags: 0
