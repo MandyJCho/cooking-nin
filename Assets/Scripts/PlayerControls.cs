@@ -14,6 +14,8 @@ public class PlayerControls : MonoBehaviour
 	private int sushiCounter;
 	public Text tempuraScore;
 	private int tempuraCounter;
+	public Text onigiriScore;
+	private int onigiriCounter;
 
 	//called before Update and after Awake
 	void Start ()
@@ -30,6 +32,7 @@ public class PlayerControls : MonoBehaviour
 		jumpVel = 5.0f;
 		sushiCounter = 0;
 		tempuraCounter = 0;
+		onigiriCounter = 0;
 		DisplayScore ();
 		//in the unity editor, freeze rotation on x and z axes on the rigidbody on the player object
 	}
@@ -83,11 +86,18 @@ public class PlayerControls : MonoBehaviour
 			tempuraCounter++;
 			DisplayScore ();
 		}
+		
+		if (col.gameObject.CompareTag("onigiri")) {
+			col.gameObject.SetActive (false);
+			onigiriCounter++;
+			DisplayScore ();
+		}
 	}
 
 	void DisplayScore()
 	{
 		sushiScore.text = "Sushi: " + sushiCounter.ToString ();
 		tempuraScore.text = "Tempura: " + tempuraCounter.ToString ();
+		onigiriScore.text = "Onigiri: " + onigiriCounter.ToString();
 	}
 }
