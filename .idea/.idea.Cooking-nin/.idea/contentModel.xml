@@ -26,6 +26,9 @@
           </e>
           <e p="Hover.cs" t="Include" />
           <e p="PlayerControls.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="TextController.cs" t="Include" />
+          </e>
         </e>
         <e p="Terrain" t="Include">
           <e p="HolyShift" t="Include">

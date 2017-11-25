@@ -2,101 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="defd59ca-e372-4268-ad46-4245c6570b51" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Cooking-nin/.idea/indexLayout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs.meta" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Audio Files.meta" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/baerong.prefab.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/baerong.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/baerong_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/baerong_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/baerong_Textures/diffuse.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/baerong_Textures/diffuse.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/baerong_Textures/normal_specular.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/baerong_Textures/normal_specular.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/baerong_Textures/shadow.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/baerong_Textures/shadow.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/baerong_Textures/translucency_gloss.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/baerong_Textures/translucency_gloss.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/beutTree.prefab.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/beutTree.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/beutTree_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/beutTree_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/beutTree_Textures/diffuse.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/beutTree_Textures/diffuse.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/beutTree_Textures/normal_specular.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/beutTree_Textures/normal_specular.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/beutTree_Textures/shadow.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/beutTree_Textures/shadow.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/beutTree_Textures/translucency_gloss.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/beutTree_Textures/translucency_gloss.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo.prefab.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo_Textures/diffuse.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo_Textures/diffuse.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo_Textures/normal_specular.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo_Textures/normal_specular.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo_Textures/shadow.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo_Textures/shadow.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo_Textures/translucency_gloss.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo_Textures/translucency_gloss.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall.prefab.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall_Textures/diffuse.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall_Textures/diffuse.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall_Textures/normal_specular.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall_Textures/normal_specular.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall_Textures/shadow.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall_Textures/shadow.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall_Textures/translucency_gloss.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall_Textures/translucency_gloss.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix.prefab.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix_Textures/diffuse.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix_Textures/diffuse.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix_Textures/normal_specular.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix_Textures/normal_specular.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix_Textures/shadow.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix_Textures/shadow.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix_Textures/translucency_gloss.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix_Textures/translucency_gloss.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer.prefab.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer_Textures/diffuse.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer_Textures/diffuse.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer_Textures/normal_specular.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer_Textures/normal_specular.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer_Textures/shadow.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer_Textures/shadow.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer_Textures/translucency_gloss.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer_Textures/translucency_gloss.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/goosang.prefab.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/goosang.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/goosang_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/goosang_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/goosang_Textures/diffuse.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/goosang_Textures/diffuse.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/goosang_Textures/normal_specular.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/goosang_Textures/normal_specular.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/goosang_Textures/shadow.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/goosang_Textures/shadow.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/goosang_Textures/translucency_gloss.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/goosang_Textures/translucency_gloss.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jajak.prefab.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jajak.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jajak_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jajak_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jajak_Textures/diffuse.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jajak_Textures/diffuse.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jajak_Textures/normal_specular.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jajak_Textures/normal_specular.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jajak_Textures/shadow.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jajak_Textures/shadow.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jajak_Textures/translucency_gloss.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jajak_Textures/translucency_gloss.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jumok.prefab.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jumok.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jumok_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jumok_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jumok_Textures/diffuse.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jumok_Textures/diffuse.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jumok_Textures/normal_specular.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jumok_Textures/normal_specular.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jumok_Textures/shadow.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jumok_Textures/shadow.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jumok_Textures/translucency_gloss.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jumok_Textures/translucency_gloss.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mogwua.prefab.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mogwua.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mogwua_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mogwua_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mogwua_Textures/diffuse.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mogwua_Textures/diffuse.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mogwua_Textures/normal_specular.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mogwua_Textures/normal_specular.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mogwua_Textures/shadow.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mogwua_Textures/shadow.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mogwua_Textures/translucency_gloss.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mogwua_Textures/translucency_gloss.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mokryun.prefab.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mokryun.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mokryun_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mokryun_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mokryun_Textures/diffuse.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mokryun_Textures/diffuse.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mokryun_Textures/normal_specular.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mokryun_Textures/normal_specular.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mokryun_Textures/shadow.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mokryun_Textures/shadow.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mokryun_Textures/translucency_gloss.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mokryun_Textures/translucency_gloss.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/neuti.prefab.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/neuti.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/neuti_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/neuti_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/neuti_Textures/diffuse.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/neuti_Textures/diffuse.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/neuti_Textures/normal_specular.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/neuti_Textures/normal_specular.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/neuti_Textures/shadow.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/neuti_Textures/shadow.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/neuti_Textures/translucency_gloss.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/neuti_Textures/translucency_gloss.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha.prefab.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha_Textures/diffuse.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha_Textures/diffuse.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha_Textures/normal_specular.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha_Textures/normal_specular.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha_Textures/shadow.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha_Textures/shadow.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha_Textures/translucency_gloss.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha_Textures/translucency_gloss.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou.prefab.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou_Textures/diffuse.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou_Textures/diffuse.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou_Textures/normal_specular.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou_Textures/normal_specular.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou_Textures/shadow.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou_Textures/shadow.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou_Textures/translucency_gloss.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou_Textures/translucency_gloss.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo.prefab.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo_Textures/diffuse.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo_Textures/diffuse.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo_Textures/normal_specular.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo_Textures/normal_specular.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo_Textures/shadow.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo_Textures/shadow.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo_Textures/translucency_gloss.png.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo_Textures/translucency_gloss.png.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Log01.FBX" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Log01_Base.FBX" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/CharacterScaleOnly_PropertyofUnity_NotPartofPack.tga" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Grass_DIF.tga" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Grass_NRM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Log01_AO.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Log01_DIF.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Log01_NRM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Soil_DIF.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Soil_NRM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/UI.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Materials.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Materials/Grass.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Materials/Grass.mat.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Materials/Log_01.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Materials/Log_01.mat.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Materials/Soil.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Materials/Soil.mat.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Log01.FBX.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Log01_Base.FBX.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Materials.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Materials/Log01_DIF.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Materials/Log01_DIF.mat.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Materials/ScanBase_Grass_DIF.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Materials/ScanBase_Grass_DIF.mat.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Materials/Soil_A.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Materials/Soil_A.mat.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Prefabs.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Prefabs/Log01.prefab" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Prefabs/Log01.prefab.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Prefabs/SceneObjects.prefab" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Prefabs/SceneObjects.prefab.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/CharacterScaleOnly_PropertyofUnity_NotPartofPack.tga.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Grass_DIF.tga.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Grass_NRM.png.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Log01_AO.png.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Log01_DIF.png.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Log01_NRM.png.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Soil_DIF.png.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Soil_NRM.png.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Cooking-nin/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Cooking-nin/.idea/contentModel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Cooking-nin/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Cooking-nin/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Materials/Obstacles.mat" afterPath="$PROJECT_DIR$/Assets/Materials/Obstacles.mat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -107,11 +63,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PlayerControls.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PlayerControls.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="96" column="4" lean-forward="false" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
+            <state relative-caret-position="-555">
+              <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
               <folding>
                 <marker date="1511572598250" expanded="true" signature="6:66" ph="..." />
                 <marker date="1511572598250" expanded="true" signature="111:2808" ph="{...}" />
@@ -131,17 +87,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ObstacleCollision.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ObstacleCollision.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            <state relative-caret-position="390">
+              <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
               <folding>
-                <marker date="1511575210054" expanded="true" signature="6:97" ph="..." />
-                <marker date="1511575210054" expanded="true" signature="158:369" ph="{...}" />
-                <marker date="1511575210054" expanded="true" signature="253:279" ph="{...}" />
-                <marker date="1511575210054" expanded="true" signature="324:367" ph="{...}" />
-                <marker date="1511575210054" expanded="true" signature="355:364" ph="{...}" />
+                <marker date="1511579499446" expanded="true" signature="6:97" ph="..." />
+                <marker date="1511579499446" expanded="true" signature="158:552" ph="{...}" />
+                <marker date="1511579499446" expanded="true" signature="282:309" ph="{...}" />
+                <marker date="1511579499446" expanded="true" signature="358:384" ph="{...}" />
+                <marker date="1511579499446" expanded="true" signature="433:549" ph="{...}" />
+                <marker date="1511579499446" expanded="true" signature="476:546" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+              <folding>
+                <marker date="1511578461397" expanded="false" signature="6:78" ph="..." />
+                <marker date="1511578461397" expanded="true" signature="123:438" ph="{...}" />
+                <marker date="1511578461397" expanded="true" signature="241:374" ph="{...}" />
+                <marker date="1511578461397" expanded="true" signature="429:436" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CameraControls.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraControls.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1507773170000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1507773170000" expanded="true" signature="89:1570" ph="{...}" />
+                <marker date="1507773170000" expanded="true" signature="452:645" ph="{...}" />
+                <marker date="1507773170000" expanded="true" signature="687:1568" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -150,11 +137,11 @@
       <file leaf-file-name="Collidable.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="42" />
+            <state relative-caret-position="180">
+              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
               <folding>
-                <marker date="1511574920539" expanded="true" signature="41:176" ph="{...}" />
-                <marker date="1511574920539" expanded="true" signature="76:174" ph="{...}" />
+                <marker date="1511579350224" expanded="true" signature="117:249" ph="{...}" />
+                <marker date="1511579350224" expanded="true" signature="152:247" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -185,13 +172,16 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraControls.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Terrain/HolyShift/Scripts/CheckForStandardAssets.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs" />
       </list>
@@ -321,12 +311,12 @@
       <option name="presentableId" value="Default" />
       <updated>1509486654565</updated>
       <workItem from="1509486659176" duration="56000" />
-      <workItem from="1511573110378" duration="1223000" />
+      <workItem from="1511573110378" duration="2689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1279000" />
+    <option name="totallyTimeSpent" value="2745000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -414,6 +404,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <marker date="1511578461397" expanded="false" signature="6:78" ph="..." />
+            <marker date="1511578461397" expanded="true" signature="123:438" ph="{...}" />
+            <marker date="1511578461397" expanded="true" signature="241:374" ph="{...}" />
+            <marker date="1511578461397" expanded="true" signature="429:436" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraControls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507773170000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1507773170000" expanded="true" signature="89:1570" ph="{...}" />
+            <marker date="1507773170000" expanded="true" signature="452:645" ph="{...}" />
+            <marker date="1507773170000" expanded="true" signature="687:1568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Hover.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -429,35 +445,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="42" />
-          <folding>
-            <marker date="1511574920539" expanded="true" signature="41:176" ph="{...}" />
-            <marker date="1511574920539" expanded="true" signature="76:174" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <marker date="1511575210054" expanded="true" signature="6:97" ph="..." />
-            <marker date="1511575210054" expanded="true" signature="158:369" ph="{...}" />
-            <marker date="1511575210054" expanded="true" signature="253:279" ph="{...}" />
-            <marker date="1511575210054" expanded="true" signature="324:367" ph="{...}" />
-            <marker date="1511575210054" expanded="true" signature="355:364" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="96" column="4" lean-forward="false" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
+        <state relative-caret-position="-555">
+          <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
           <folding>
             <marker date="1511572598250" expanded="true" signature="6:66" ph="..." />
             <marker date="1511572598250" expanded="true" signature="111:2808" ph="{...}" />
@@ -472,6 +463,32 @@
             <marker date="1511572598250" expanded="true" signature="2376:2459" ph="{...}" />
             <marker date="1511572598250" expanded="true" signature="2507:2590" ph="{...}" />
             <marker date="1511572598250" expanded="true" signature="2615:2806" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <marker date="1511579350224" expanded="true" signature="117:249" ph="{...}" />
+            <marker date="1511579350224" expanded="true" signature="152:247" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <marker date="1511579499446" expanded="true" signature="6:97" ph="..." />
+            <marker date="1511579499446" expanded="true" signature="158:552" ph="{...}" />
+            <marker date="1511579499446" expanded="true" signature="282:309" ph="{...}" />
+            <marker date="1511579499446" expanded="true" signature="358:384" ph="{...}" />
+            <marker date="1511579499446" expanded="true" signature="433:549" ph="{...}" />
+            <marker date="1511579499446" expanded="true" signature="476:546" ph="{...}" />
           </folding>
         </state>
       </provider>

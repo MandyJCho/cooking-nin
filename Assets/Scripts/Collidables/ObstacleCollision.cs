@@ -5,18 +5,27 @@ using Collidables;
 
 public class ObstacleCollision : MonoBehaviour, Collidable {
 	public int pointImpact { get; private set; }
+	private static int collsionScore { get; set; }
 
+	static ObstacleCollision()
+	{
+		collsionScore = 0;
+	}
+	
 	// Use this for initialization
 	void Start ()
 	{
-		pointImpact = -2;
+		pointImpact = -1;
 	}
-	
 
-	public void OnTriggerEnter(Collider col)
+
+	public void OnCollisionEnter(Collision other)
 	{
-		if (col.tag == "Player") {
-			
+		if (other.gameObject.tag == "Player")
+		{
+			collsionScore += pointImpact;
+			Debug.Log(collsionScore);
 		}
 	}
+
 }
