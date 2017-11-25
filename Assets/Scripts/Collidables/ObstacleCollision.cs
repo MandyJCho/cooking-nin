@@ -2,20 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Collidables;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class ObstacleCollision : MonoBehaviour, Collidable {
 	public int pointImpact { get; private set; }
-	private static int collsionScore { get; set; }
-
-	static ObstacleCollision()
-	{
-		collsionScore = 0;
-	}
+	private ScoreController scoreController;
 	
 	// Use this for initialization
 	void Start ()
 	{
 		pointImpact = -1;
+		scoreController = GameObject.Find("UI/Score").GetComponent<ScoreController>();
 	}
 
 
@@ -23,8 +20,8 @@ public class ObstacleCollision : MonoBehaviour, Collidable {
 	{
 		if (other.gameObject.tag == "Player")
 		{
-			collsionScore += pointImpact;
-			Debug.Log(collsionScore);
+			scoreController.score += pointImpact;
+			
 		}
 	}
 

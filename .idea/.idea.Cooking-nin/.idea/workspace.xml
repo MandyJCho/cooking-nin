@@ -2,56 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="defd59ca-e372-4268-ad46-4245c6570b51" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Log01.FBX" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Log01_Base.FBX" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/CharacterScaleOnly_PropertyofUnity_NotPartofPack.tga" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Grass_DIF.tga" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Grass_NRM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Log01_AO.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Log01_DIF.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Log01_NRM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Soil_DIF.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Soil_NRM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/UI.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Materials.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Materials/Grass.mat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Materials/Grass.mat.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Materials/Log_01.mat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Materials/Log_01.mat.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Materials/Soil.mat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Materials/Soil.mat.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Log01.FBX.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Log01_Base.FBX.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Materials.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Materials/Log01_DIF.mat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Materials/Log01_DIF.mat.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Materials/ScanBase_Grass_DIF.mat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Materials/ScanBase_Grass_DIF.mat.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Materials/Soil_A.mat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Models/Log01/Materials/Soil_A.mat.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Prefabs.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Prefabs/Log01.prefab" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Prefabs/Log01.prefab.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Prefabs/SceneObjects.prefab" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Prefabs/SceneObjects.prefab.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/CharacterScaleOnly_PropertyofUnity_NotPartofPack.tga.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Grass_DIF.tga.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Grass_NRM.png.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Log01_AO.png.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Log01_DIF.png.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Log01_NRM.png.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Soil_DIF.png.meta" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees/Textures/Soil_NRM.png.meta" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs.meta" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ScoreController.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Cooking-nin/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Cooking-nin/.idea/contentModel.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Cooking-nin/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Cooking-nin/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Materials/Obstacles.mat" afterPath="$PROJECT_DIR$/Assets/Materials/Obstacles.mat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,30 +44,30 @@
       <file leaf-file-name="ObstacleCollision.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+            <state relative-caret-position="345">
+              <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
               <folding>
-                <marker date="1511579499446" expanded="true" signature="6:97" ph="..." />
-                <marker date="1511579499446" expanded="true" signature="158:552" ph="{...}" />
-                <marker date="1511579499446" expanded="true" signature="282:309" ph="{...}" />
-                <marker date="1511579499446" expanded="true" signature="358:384" ph="{...}" />
-                <marker date="1511579499446" expanded="true" signature="433:549" ph="{...}" />
-                <marker date="1511579499446" expanded="true" signature="476:546" ph="{...}" />
+                <marker date="1511583171352" expanded="true" signature="6:137" ph="..." />
+                <marker date="1511583171352" expanded="true" signature="198:594" ph="{...}" />
+                <marker date="1511583171352" expanded="true" signature="336:443" ph="{...}" />
+                <marker date="1511583171352" expanded="true" signature="492:591" ph="{...}" />
+                <marker date="1511583171352" expanded="true" signature="535:588" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TextController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs">
+      <file leaf-file-name="ScoreController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/ScoreController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            <state relative-caret-position="360">
+              <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
               <folding>
-                <marker date="1511578461397" expanded="false" signature="6:78" ph="..." />
-                <marker date="1511578461397" expanded="true" signature="123:438" ph="{...}" />
-                <marker date="1511578461397" expanded="true" signature="241:374" ph="{...}" />
-                <marker date="1511578461397" expanded="true" signature="429:436" ph="{...}" />
+                <marker date="1511582764428" expanded="true" signature="6:100" ph="..." />
+                <marker date="1511582764428" expanded="true" signature="146:559" ph="{...}" />
+                <marker date="1511582764428" expanded="true" signature="256:363" ph="{...}" />
+                <marker date="1511582764428" expanded="true" signature="417:479" ph="{...}" />
+                <marker date="1511582764428" expanded="true" signature="507:557" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -174,15 +128,16 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraControls.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/ScoreController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Terrain/HolyShift/Scripts/CheckForStandardAssets.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ScoreController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs" />
       </list>
     </option>
@@ -256,6 +211,14 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Cooking-nin (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UI" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Cooking-nin (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Assembly-CSharp-Editor-firstpass" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
@@ -311,12 +274,12 @@
       <option name="presentableId" value="Default" />
       <updated>1509486654565</updated>
       <workItem from="1509486659176" duration="56000" />
-      <workItem from="1511573110378" duration="2689000" />
+      <workItem from="1511573110378" duration="4704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2745000" />
+    <option name="totallyTimeSpent" value="4760000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -404,19 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding>
-            <marker date="1511578461397" expanded="false" signature="6:78" ph="..." />
-            <marker date="1511578461397" expanded="true" signature="123:438" ph="{...}" />
-            <marker date="1511578461397" expanded="true" signature="241:374" ph="{...}" />
-            <marker date="1511578461397" expanded="true" signature="429:436" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraControls.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -478,17 +428,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/ScoreController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <marker date="1511582764428" expanded="true" signature="6:100" ph="..." />
+            <marker date="1511582764428" expanded="true" signature="146:559" ph="{...}" />
+            <marker date="1511582764428" expanded="true" signature="256:363" ph="{...}" />
+            <marker date="1511582764428" expanded="true" signature="417:479" ph="{...}" />
+            <marker date="1511582764428" expanded="true" signature="507:557" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        <state relative-caret-position="345">
+          <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
           <folding>
-            <marker date="1511579499446" expanded="true" signature="6:97" ph="..." />
-            <marker date="1511579499446" expanded="true" signature="158:552" ph="{...}" />
-            <marker date="1511579499446" expanded="true" signature="282:309" ph="{...}" />
-            <marker date="1511579499446" expanded="true" signature="358:384" ph="{...}" />
-            <marker date="1511579499446" expanded="true" signature="433:549" ph="{...}" />
-            <marker date="1511579499446" expanded="true" signature="476:546" ph="{...}" />
+            <marker date="1511583171352" expanded="true" signature="6:137" ph="..." />
+            <marker date="1511583171352" expanded="true" signature="198:594" ph="{...}" />
+            <marker date="1511583171352" expanded="true" signature="336:443" ph="{...}" />
+            <marker date="1511583171352" expanded="true" signature="492:591" ph="{...}" />
+            <marker date="1511583171352" expanded="true" signature="535:588" ph="{...}" />
           </folding>
         </state>
       </provider>
