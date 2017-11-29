@@ -23,6 +23,6 @@ public class Hover : MonoBehaviour
 			changeHeight = 0.5f;
 		}
 		//translate the item on its y-axis
-		transform.Translate(new Vector3(0, changeHeight, 0) * Time.deltaTime);
+		transform.Translate(new Vector3(0, changeHeight, 0) * Time.deltaTime / 1.5f);
 	}
 }

@@ -2,345 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="defd59ca-e372-4268-ad46-4245c6570b51" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/Materials.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/Materials/ffdtex0.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/Materials/ffdtex0.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.dae" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.dae.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.mtl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.mtl.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.obj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.obj.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.rda" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.rda.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.smd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.smd.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/ffdtex0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/ffdtex0.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/Materials.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/Materials/ffdtex0.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/Materials/ffdtex0.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/Materials/ffdtex1.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/Materials/ffdtex1.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/To those with Blender.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/To those with Blender.txt.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.dae" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.dae.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.mtl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.mtl.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.obj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.obj.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.rda" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.rda.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.smd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.smd.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/ffdtex0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/ffdtex0.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/ffdtex1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/ffdtex1.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14_tpltex00.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14_tpltex00.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14out.dae" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14out.dae.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14out.obj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14out.obj.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14out.smd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14out.smd.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/Materials.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/Materials/0053_player14_tpltex00.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/Materials/0053_player14_tpltex00.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/Materials/mesh00Mat.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/Materials/mesh00Mat.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/Materials.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/Materials/ffdtex0.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/Materials/ffdtex0.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/Materials/ffdtex1.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/Materials/ffdtex1.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.dae" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.dae.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.mtl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.mtl.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.obj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.obj.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.rda" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.rda.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.smd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.smd.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/ffdtex0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/ffdtex0.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/ffdtex1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/ffdtex1.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51_tpltex00.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51_tpltex00.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51out.dae" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51out.dae.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51out.obj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51out.obj.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51out.smd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51out.smd.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/Materials.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/Materials/0076_player51_tpltex00.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/Materials/0076_player51_tpltex00.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/Materials/mesh00Mat.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/Materials/mesh00Mat.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Lantern.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Lantern.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/Lantern.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/Lantern.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/door.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/door.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/floor.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/floor.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/lantern_Emission.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/lantern_Emission.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/roof corner.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/roof corner.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/roof.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/roof.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 1.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 1.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 2.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 2.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 3.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 3.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 4.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 4.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 5.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 5.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/window.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/window.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/ReadMe.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/ReadMe.txt.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Wall D.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Wall D.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Window.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Window.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/door.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/door.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/floor.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/floor.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/ladder.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/ladder.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/Lantern.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/Lantern.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/Wall D.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/Wall D.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/Window.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/Window.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/door.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/door.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/floor.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/floor.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/ladder.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/ladder.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof corner A.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof corner A.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof corner B.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof corner B.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof end L.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof end L.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof end R.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof end R.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof end.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof end.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall A.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall A.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall B.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall B.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall C.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall C.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small A.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small A.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small A1.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small A1.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small B.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small B.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small B1.fbx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small B1.fbx.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof corner A.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof corner A.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof corner B.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof corner B.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof end L.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof end L.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof end R.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof end R.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/scenes.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/scenes/platform house.unity" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/scenes/platform house.unity.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_Albedo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_Albedo.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_MetallicSmoothness.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_MetallicSmoothness.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_Normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_Normal.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_Occlusion.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_Occlusion.bmp.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_Albedo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_Albedo.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_MetallicSmoothness.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_MetallicSmoothness.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_Normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_Normal.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_Occlusion.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_Occlusion.bmp.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Albedo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Albedo.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Emission.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Emission.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_MetallicSmoothness.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_MetallicSmoothness.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Normal.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Occlusion.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Occlusion.bmp.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_Albedo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_Albedo.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_MetallicSmoothness.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_MetallicSmoothness.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_Normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_Normal.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_Occlusion.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_Occlusion.bmp.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_Albedo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_Albedo.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_MetallicSmoothness.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_MetallicSmoothness.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_Normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_Normal.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_Occlusion.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_Occlusion.bmp.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_Albedo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_Albedo.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_MetallicSmoothness.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_MetallicSmoothness.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_Normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_Normal.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_Occlusion.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_Occlusion.bmp.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_Albedo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_Albedo.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_MetallicSmoothness.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_MetallicSmoothness.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_Normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_Normal.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_Occlusion.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_Occlusion.bmp.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_Albedo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_Albedo.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_MetallicSmoothness.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_MetallicSmoothness.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_Normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_Normal.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_Occlusion.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_Occlusion.bmp.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_Albedo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_Albedo.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_MetallicSmoothness.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_MetallicSmoothness.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_Normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_Normal.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_Occlusion.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_Occlusion.bmp.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_Albedo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_Albedo.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_MetallicSmoothness.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_MetallicSmoothness.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_Normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_Normal.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_Occlusion.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_Occlusion.bmp.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_Albedo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_Albedo.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_MetallicSmoothness.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_MetallicSmoothness.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_Normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_Normal.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_Occlusion.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_Occlusion.bmp.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall A.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall A.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall B.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall B.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall C.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall C.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small A.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small A.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small A1.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small A1.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small B.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small B.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small B1.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small B1.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/Materials.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/Materials/ffdtex0.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/Materials/ffdtex0.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/Materials/ffdtex1.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/Materials/ffdtex1.mat.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/ffdtex0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/ffdtex0.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/ffdtex1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/ffdtex1.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.dae" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.dae.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.mtl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.mtl.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.obj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.obj.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.rda" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.rda.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.smd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.smd.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/CameraControls.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/CameraControls.cs.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Hover.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Hover.cs.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Terrain.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees.meta" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/baerong.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/baerong.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/baerong_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/baerong_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/beutTree.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/beutTree.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/beutTree_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/beutTree_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/goosang.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/goosang.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/goosang_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/goosang_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jajak.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jajak.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jajak_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jajak_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jumok.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jumok.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jumok_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jumok_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mogwua.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mogwua.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mogwua_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mogwua_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mokryun_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mokryun_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/neuti_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/neuti_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou_Textures.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo_Textures.meta" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Gyoza.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Gyoza.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Maki.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Maki.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Mochi.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Mochi.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Mushroom.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Mushroom.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Pepper.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Pepper.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Wine_Bottle.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Wine_Bottle.prefab.meta" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/_Scenes/Main.unity" afterPath="$PROJECT_DIR$/Assets/_Scenes/Main.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/_Scripts/Hover.cs" afterPath="$PROJECT_DIR$/Assets/_Scripts/Hover.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -351,7 +26,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GameController.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GameController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/GameController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -388,18 +63,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hover.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Hover.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Hover.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
               <folding>
-                <marker date="1511912782676" expanded="true" signature="6:44" ph="..." />
-                <marker date="1511912782676" expanded="true" signature="80:683" ph="{...}" />
-                <marker date="1511912782676" expanded="true" signature="216:245" ph="{...}" />
-                <marker date="1511912782676" expanded="true" signature="288:681" ph="{...}" />
-                <marker date="1511912782676" expanded="true" signature="402:432" ph="{...}" />
-                <marker date="1511912782676" expanded="true" signature="539:568" ph="{...}" />
+                <marker date="1511913907180" expanded="true" signature="6:44" ph="..." />
+                <marker date="1511913907180" expanded="true" signature="80:690" ph="{...}" />
+                <marker date="1511913907180" expanded="true" signature="216:245" ph="{...}" />
+                <marker date="1511913907180" expanded="true" signature="288:688" ph="{...}" />
+                <marker date="1511913907180" expanded="true" signature="402:432" ph="{...}" />
+                <marker date="1511913907180" expanded="true" signature="539:568" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -428,8 +103,8 @@
         <option value="$PROJECT_DIR$/Assets/cooking-nin-dev/Assets/Scripts/CameraControls.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraControls.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/GameController.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Scripts/Hover.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerControls.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Hover.cs" />
       </list>
     </option>
   </component>
@@ -549,12 +224,12 @@
       <workItem from="1511573110378" duration="7805000" />
       <workItem from="1511898412981" duration="17000" />
       <workItem from="1511898518117" duration="5098000" />
-      <workItem from="1511909960063" duration="2189000" />
+      <workItem from="1511909960063" duration="2582000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15165000" />
+    <option name="totallyTimeSpent" value="15558000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -872,21 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Hover.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <marker date="1511912782676" expanded="true" signature="6:44" ph="..." />
-            <marker date="1511912782676" expanded="true" signature="80:683" ph="{...}" />
-            <marker date="1511912782676" expanded="true" signature="216:245" ph="{...}" />
-            <marker date="1511912782676" expanded="true" signature="288:681" ph="{...}" />
-            <marker date="1511912782676" expanded="true" signature="402:432" ph="{...}" />
-            <marker date="1511912782676" expanded="true" signature="539:568" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/cooking-nin-dev/Assets/Scripts/Hover.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -932,6 +592,21 @@
             <marker date="1511912768067" expanded="true" signature="554:1215" ph="{...}" />
             <marker date="1511912768067" expanded="true" signature="646:897" ph="{...}" />
             <marker date="1511912768067" expanded="true" signature="904:1205" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Hover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <marker date="1511913907180" expanded="true" signature="6:44" ph="..." />
+            <marker date="1511913907180" expanded="true" signature="80:690" ph="{...}" />
+            <marker date="1511913907180" expanded="true" signature="216:245" ph="{...}" />
+            <marker date="1511913907180" expanded="true" signature="288:688" ph="{...}" />
+            <marker date="1511913907180" expanded="true" signature="402:432" ph="{...}" />
+            <marker date="1511913907180" expanded="true" signature="539:568" ph="{...}" />
           </folding>
         </state>
       </provider>
