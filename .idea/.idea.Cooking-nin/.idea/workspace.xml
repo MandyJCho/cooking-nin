@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="defd59ca-e372-4268-ad46-4245c6570b51" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/Materials.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/Materials/ffdtex0.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/Materials/ffdtex0.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.dae.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.mtl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.mtl.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.obj.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.rda" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.rda.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.smd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/cactaur.smd.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/ffdtex0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Cactaur/ffdtex0.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/Materials.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/Materials/ffdtex0.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/Materials/ffdtex0.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/Materials/ffdtex1.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/Materials/ffdtex1.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/To those with Blender.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/To those with Blender.txt.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.dae.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.mtl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.mtl.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.obj.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.rda" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.rda.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.smd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/caterchipiller.smd.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/ffdtex0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/ffdtex0.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/ffdtex1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Caterchipiller/ffdtex1.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14_tpltex00.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14_tpltex00.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14out.dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14out.dae.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14out.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14out.obj.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14out.smd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/0053_player14out.smd.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/Materials.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/Materials/0053_player14_tpltex00.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/Materials/0053_player14_tpltex00.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/Materials/mesh00Mat.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Chocobo/Materials/mesh00Mat.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/Materials.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/Materials/ffdtex0.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/Materials/ffdtex0.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/Materials/ffdtex1.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/Materials/ffdtex1.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.dae.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.mtl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.mtl.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.obj.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.rda" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.rda.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.smd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/fakepresident.smd.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/ffdtex0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/ffdtex0.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/ffdtex1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/FakePresident/ffdtex1.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51_tpltex00.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51_tpltex00.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51out.dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51out.dae.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51out.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51out.obj.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51out.smd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/0076_player51out.smd.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/Materials.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/Materials/0076_player51_tpltex00.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/Materials/0076_player51_tpltex00.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/Materials/mesh00Mat.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fat Chocobo/Materials/mesh00Mat.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Lantern.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Lantern.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/Lantern.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/Lantern.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/door.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/door.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/floor.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/floor.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/lantern_Emission.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/lantern_Emission.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/roof corner.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/roof corner.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/roof.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/roof.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 1.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 1.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 2.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 2.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 3.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 3.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 4.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 4.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 5.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/wall 5.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/window.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Materials/window.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/ReadMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/ReadMe.txt.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Wall D.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Wall D.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Window.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/Window.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/door.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/door.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/floor.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/floor.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/ladder.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/ladder.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/Lantern.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/Lantern.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/Wall D.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/Wall D.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/Window.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/Window.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/door.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/door.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/floor.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/floor.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/ladder.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/ladder.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof corner A.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof corner A.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof corner B.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof corner B.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof end L.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof end L.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof end R.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof end R.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof end.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof end.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/roof.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall A.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall A.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall B.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall B.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall C.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall C.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small A.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small A.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small A1.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small A1.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small B.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small B.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small B1.fbx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/meshes/wall small B1.fbx.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof corner A.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof corner A.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof corner B.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof corner B.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof end L.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof end L.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof end R.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof end R.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/roof.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/scenes.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/scenes/platform house.unity" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/scenes/platform house.unity.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_Albedo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_Albedo.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_MetallicSmoothness.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_MetallicSmoothness.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_Normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_Normal.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_Occlusion.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/door_Occlusion.bmp.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_Albedo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_Albedo.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_MetallicSmoothness.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_MetallicSmoothness.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_Normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_Normal.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_Occlusion.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/floor_Occlusion.bmp.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Albedo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Albedo.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Emission.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Emission.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_MetallicSmoothness.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_MetallicSmoothness.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Normal.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Occlusion.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/lantern_Occlusion.bmp.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_Albedo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_Albedo.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_MetallicSmoothness.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_MetallicSmoothness.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_Normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_Normal.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_Occlusion.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof corner_Occlusion.bmp.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_Albedo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_Albedo.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_MetallicSmoothness.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_MetallicSmoothness.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_Normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_Normal.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_Occlusion.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/roof_Occlusion.bmp.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_Albedo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_Albedo.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_MetallicSmoothness.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_MetallicSmoothness.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_Normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_Normal.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_Occlusion.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall1_Occlusion.bmp.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_Albedo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_Albedo.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_MetallicSmoothness.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_MetallicSmoothness.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_Normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_Normal.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_Occlusion.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall2_Occlusion.bmp.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_Albedo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_Albedo.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_MetallicSmoothness.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_MetallicSmoothness.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_Normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_Normal.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_Occlusion.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall3_Occlusion.bmp.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_Albedo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_Albedo.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_MetallicSmoothness.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_MetallicSmoothness.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_Normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_Normal.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_Occlusion.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall4_Occlusion.bmp.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_Albedo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_Albedo.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_MetallicSmoothness.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_MetallicSmoothness.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_Normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_Normal.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_Occlusion.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/wall5_Occlusion.bmp.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_Albedo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_Albedo.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_MetallicSmoothness.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_MetallicSmoothness.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_Normal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_Normal.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_Occlusion.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/textures/window_Occlusion.bmp.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall A.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall A.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall B.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall B.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall C.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall C.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small A.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small A.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small A1.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small A1.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small B.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small B.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small B1.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/JapaneseHouse/wall small B1.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/Materials.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/Materials/ffdtex0.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/Materials/ffdtex0.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/Materials/ffdtex1.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/Materials/ffdtex1.mat.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/ffdtex0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/ffdtex0.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/ffdtex1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/ffdtex1.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.dae.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.mtl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.mtl.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.obj.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.rda" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.rda.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.smd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Pupu/pupu.smd.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/CameraControls.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/CameraControls.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Hover.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Hover.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Terrain.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Terrain/Fallen Trees.meta" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/baerong.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/baerong.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/baerong_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/baerong_Textures.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/beutTree.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/beutTree.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/beutTree_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/beutTree_Textures.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/daenamoo_Textures.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungFall_Textures.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungMix_Textures.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/danpungSummer_Textures.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/goosang.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/goosang.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/goosang_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/goosang_Textures.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jajak.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jajak.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jajak_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jajak_Textures.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jumok.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jumok.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/jumok_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/jumok_Textures.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mogwua.prefab" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mogwua.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mogwua_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mogwua_Textures.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/mokryun_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/mokryun_Textures.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/neuti_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/neuti_Textures.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/newngsowha_Textures.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sansuyou_Textures.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo_Textures.meta" afterPath="$PROJECT_DIR$/Assets/TreeCollection/sonamoo_Textures.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/_Scenes/Main.unity" afterPath="$PROJECT_DIR$/Assets/_Scenes/Main.unity" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GameController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/GameController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding>
+                <marker date="1511912768067" expanded="true" signature="6:100" ph="..." />
+                <marker date="1511912768067" expanded="true" signature="145:1217" ph="{...}" />
+                <marker date="1511912768067" expanded="true" signature="383:512" ph="{...}" />
+                <marker date="1511912768067" expanded="true" signature="554:1215" ph="{...}" />
+                <marker date="1511912768067" expanded="true" signature="646:897" ph="{...}" />
+                <marker date="1511912768067" expanded="true" signature="904:1205" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerControls.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerControls.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+              <folding>
+                <marker date="1511912798214" expanded="true" signature="6:66" ph="..." />
+                <marker date="1511912798214" expanded="true" signature="111:1975" ph="{...}" />
+                <marker date="1511912798214" expanded="true" signature="370:851" ph="{...}" />
+                <marker date="1511912798214" expanded="true" signature="940:1028" ph="{...}" />
+                <marker date="1511912798214" expanded="true" signature="1071:1973" ph="{...}" />
+                <marker date="1511912798214" expanded="true" signature="1089:1914" ph="{...}" />
+                <marker date="1511912798214" expanded="true" signature="1710:1760" ph="{...}" />
+                <marker date="1511912798214" expanded="true" signature="1871:1910" ph="{...}" />
+                <marker date="1511912798214" expanded="true" signature="1914:1970" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hover.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Hover.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding>
+                <marker date="1511912782676" expanded="true" signature="6:44" ph="..." />
+                <marker date="1511912782676" expanded="true" signature="80:683" ph="{...}" />
+                <marker date="1511912782676" expanded="true" signature="216:245" ph="{...}" />
+                <marker date="1511912782676" expanded="true" signature="288:681" ph="{...}" />
+                <marker date="1511912782676" expanded="true" signature="402:432" ph="{...}" />
+                <marker date="1511912782676" expanded="true" signature="539:568" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Hover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerControls.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/TextController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ScoreController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collidables/CollectibleCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/cooking-nin-dev/Assets/Scripts/CameraControls.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraControls.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Hover.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerControls.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Cooking-nin (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Cooking-nin (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Cooking-nin (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Cooking-nin (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="_Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Cooking-nin (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Standard Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="defd59ca-e372-4268-ad46-4245c6570b51" name="Default" comment="" />
+      <created>1509486654565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509486654565</updated>
+      <workItem from="1509486659176" duration="56000" />
+      <workItem from="1511573110378" duration="7805000" />
+      <workItem from="1511898412981" duration="17000" />
+      <workItem from="1511898518117" duration="5098000" />
+      <workItem from="1511909960063" duration="2189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15165000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23819445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/CollectibleCollision.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/ScoreController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraControls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Hover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="32" lean-forward="false" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraControls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Hover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/ScoreController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" column="51" lean-forward="false" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" column="51" lean-forward="false" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraControls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Hover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="32" lean-forward="false" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/ScoreController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Terrain/HolyShift/Scripts/CheckForStandardAssets.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assembly-CSharp.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Terrain/HolyShift/Scripts/CheckForStandardAssets.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="150" lean-forward="false" selection-start-line="11" selection-start-column="96" selection-end-line="11" selection-end-column="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObstacleCollision.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/ScoreController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/CollectibleCollision.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/Collidable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collidables/ObstacleCollision.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="45" lean-forward="false" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Hover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraControls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/cooking-nin-dev/Assets/Scripts/CameraControls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/cooking-nin-dev/Assets/Scripts/GameController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Hover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <marker date="1511912782676" expanded="true" signature="6:44" ph="..." />
+            <marker date="1511912782676" expanded="true" signature="80:683" ph="{...}" />
+            <marker date="1511912782676" expanded="true" signature="216:245" ph="{...}" />
+            <marker date="1511912782676" expanded="true" signature="288:681" ph="{...}" />
+            <marker date="1511912782676" expanded="true" signature="402:432" ph="{...}" />
+            <marker date="1511912782676" expanded="true" signature="539:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/cooking-nin-dev/Assets/Scripts/Hover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/cooking-nin-dev/Assets/Scripts/PlayerControls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerControls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+          <folding>
+            <marker date="1511912798214" expanded="true" signature="6:66" ph="..." />
+            <marker date="1511912798214" expanded="true" signature="111:1975" ph="{...}" />
+            <marker date="1511912798214" expanded="true" signature="370:851" ph="{...}" />
+            <marker date="1511912798214" expanded="true" signature="940:1028" ph="{...}" />
+            <marker date="1511912798214" expanded="true" signature="1071:1973" ph="{...}" />
+            <marker date="1511912798214" expanded="true" signature="1089:1914" ph="{...}" />
+            <marker date="1511912798214" expanded="true" signature="1710:1760" ph="{...}" />
+            <marker date="1511912798214" expanded="true" signature="1871:1910" ph="{...}" />
+            <marker date="1511912798214" expanded="true" signature="1914:1970" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/GameController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <marker date="1511912768067" expanded="true" signature="6:100" ph="..." />
+            <marker date="1511912768067" expanded="true" signature="145:1217" ph="{...}" />
+            <marker date="1511912768067" expanded="true" signature="383:512" ph="{...}" />
+            <marker date="1511912768067" expanded="true" signature="554:1215" ph="{...}" />
+            <marker date="1511912768067" expanded="true" signature="646:897" ph="{...}" />
+            <marker date="1511912768067" expanded="true" signature="904:1205" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
