@@ -11,14 +11,18 @@ public class PlayerControls : MonoBehaviour
 	private CapsuleCollider playerColl;
 	private Rigidbody playerRigBd;
 	[HideInInspector] public bool gameOn;
+	private AudioSource audioSource;
+	public AudioClip pickupSound;
+	public AudioClip collSound;
 
 	//called before Update and after Awake
 	void Start ()
 	{
-		//initialize references to the player Collider and Rigidbody
+		//initialize references to the player Collider, Rigidbody, and audio source
 		playerColl = GetComponent<CapsuleCollider>();
 		distFromGround = playerColl.bounds.extents.y;
 		playerRigBd = GetComponent<Rigidbody>();
+		audioSource = GetComponent<AudioSource> ();
 		
 		//mouse setting: locked to center of the window. No longer visible on screen
 		Cursor.lockState = CursorLockMode.Locked;
@@ -33,6 +37,20 @@ public class PlayerControls : MonoBehaviour
 	bool isGrounded ()
 	{
 		return Physics.Raycast(transform.position, -Vector3.up, distFromGround + 0.1f);
+	}
+	
+	//plays the pickup sound
+	public void playPickupSound()
+	{
+		audioSource.clip = pickupSound;
+		audioSource.Play ();
+	}
+	
+	//plays the collision sound
+	public void playCollSound()
+	{
+		audioSource.clip = collSound;
+		audioSource.Play ();
 	}
 	
 	//called once per frame

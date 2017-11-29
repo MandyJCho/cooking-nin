@@ -12,6 +12,7 @@ public class CollectibleCollision : MonoBehaviour, Collidable {
     public int pointImpact { get; private set; }
     public static int TOTAL = 0;
     public ScoreController scoreController { get; set; }
+	private PlayerControls player;
 
     // Use this for initialization
     void Start ()
@@ -19,6 +20,7 @@ public class CollectibleCollision : MonoBehaviour, Collidable {
         pointImpact = 1;
         scoreController = GameObject.Find("UI/Score").GetComponent<ScoreController>();
         TOTAL++;
+		player = GameObject.FindGameObjectWithTag ("Player").GetComponent<PlayerControls>();
     }
 
     public void OnCollisionEnter(Collision other)
@@ -43,7 +45,8 @@ public class CollectibleCollision : MonoBehaviour, Collidable {
 
     public IEnumerator Reaction()
     {
-         // play sounds
+        //play pickup sound
+		player.playPickupSound();
         yield return null;
     }
 }

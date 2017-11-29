@@ -13,6 +13,7 @@ public class ObstacleCollision : MonoBehaviour, Collidable {
 	public int pointImpact { get; private set; }
 	public ScoreController scoreController { get; set; }
 	public Image damageImage;
+	private PlayerControls player;
 
 	// Use this for initialization
 	void Start ()
@@ -20,6 +21,7 @@ public class ObstacleCollision : MonoBehaviour, Collidable {
 		damageImage = GameObject.Find("UI/DamageImage").GetComponent<Image>();
 		pointImpact = -1;
 		scoreController = GameObject.Find("UI/Score").GetComponent<ScoreController>();
+		player = GameObject.FindGameObjectWithTag ("Player").GetComponent<PlayerControls>();
 	}
 
 	public void OnCollisionEnter(Collision other)
@@ -33,6 +35,8 @@ public class ObstacleCollision : MonoBehaviour, Collidable {
 
 	public IEnumerator Reaction()
 	{
+		//play collision sound
+		player.playCollSound();
 		Color red = new Color(1, 0, 0, .3f);
 		damageImage.color = red;
 		yield return new WaitForSeconds(.3f);
