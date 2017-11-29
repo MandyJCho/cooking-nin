@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="defd59ca-e372-4268-ad46-4245c6570b51" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Gyoza.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Gyoza.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Maki.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Maki.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Mochi.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Mochi.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Mushroom.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Mushroom.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Pepper.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Pepper.prefab.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Wine_Bottle.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Food/Prefabs/Wine_Bottle.prefab.meta" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/_Scenes/Main.unity" afterPath="$PROJECT_DIR$/Assets/_Scenes/Main.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/_Scripts/Hover.cs" afterPath="$PROJECT_DIR$/Assets/_Scripts/Hover.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,8 +53,8 @@
       <file leaf-file-name="Hover.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Hover.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="420">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <marker date="1511913907180" expanded="true" signature="6:44" ph="..." />
                 <marker date="1511913907180" expanded="true" signature="80:690" ph="{...}" />
@@ -224,12 +211,12 @@
       <workItem from="1511573110378" duration="7805000" />
       <workItem from="1511898412981" duration="17000" />
       <workItem from="1511898518117" duration="5098000" />
-      <workItem from="1511909960063" duration="2582000" />
+      <workItem from="1511909960063" duration="2584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15558000" />
+    <option name="totallyTimeSpent" value="15560000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -598,8 +585,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Hover.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <marker date="1511913907180" expanded="true" signature="6:44" ph="..." />
             <marker date="1511913907180" expanded="true" signature="80:690" ph="{...}" />
