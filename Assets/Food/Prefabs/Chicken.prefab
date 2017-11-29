@@ -21,6 +21,9 @@ GameObject:
   - component: {fileID: 4000011017869408}
   - component: {fileID: 33000010227862142}
   - component: {fileID: 23000011261519524}
+  - component: {fileID: 114317517716400912}
+  - component: {fileID: 114116034924585426}
+  - component: {fileID: 122227479003071552}
   m_Layer: 0
   m_Name: Chicken
   m_TagString: Untagged
@@ -80,3 +83,36 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1000010917563242}
   m_Mesh: {fileID: 4300000, guid: 310f9adb29639fa4f926ddbb52461942, type: 3}
+--- !u!114 &114116034924585426
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010917563242}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf85f864a5f46238cae052672e46918, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114317517716400912
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010917563242}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 613bfaf3bc42a384987c8d6a7fe22311, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!122 &122227479003071552
+Halo:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010917563242}
+  m_Enabled: 1
+  m_Color:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_Size: 5
