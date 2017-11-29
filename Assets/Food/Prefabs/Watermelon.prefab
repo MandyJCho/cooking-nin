@@ -21,6 +21,9 @@ GameObject:
   - component: {fileID: 4000012037240470}
   - component: {fileID: 33000011532679434}
   - component: {fileID: 23000014034575758}
+  - component: {fileID: 114212452694882762}
+  - component: {fileID: 114639449266565182}
+  - component: {fileID: 122892360821779230}
   m_Layer: 0
   m_Name: Watermelon
   m_TagString: Untagged
@@ -80,3 +83,36 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1000011216760202}
   m_Mesh: {fileID: 4300000, guid: d0f2ab72785049643aa6edc83f32d9ab, type: 3}
+--- !u!114 &114212452694882762
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011216760202}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 613bfaf3bc42a384987c8d6a7fe22311, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114639449266565182
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011216760202}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf85f864a5f46238cae052672e46918, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!122 &122892360821779230
+Halo:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011216760202}
+  m_Enabled: 1
+  m_Color:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_Size: 5

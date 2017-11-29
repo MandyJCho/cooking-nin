@@ -21,6 +21,9 @@ GameObject:
   - component: {fileID: 4000012772204206}
   - component: {fileID: 33000011072960250}
   - component: {fileID: 23000010713568166}
+  - component: {fileID: 114061516018262936}
+  - component: {fileID: 114460181836241924}
+  - component: {fileID: 122672278486483714}
   m_Layer: 0
   m_Name: Rice_Bowl
   m_TagString: Untagged
@@ -80,3 +83,36 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1000013397514734}
   m_Mesh: {fileID: 4300000, guid: 442120c1ba2d6ac4a9caa291dd678060, type: 3}
+--- !u!114 &114061516018262936
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013397514734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 613bfaf3bc42a384987c8d6a7fe22311, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114460181836241924
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013397514734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf85f864a5f46238cae052672e46918, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!122 &122672278486483714
+Halo:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013397514734}
+  m_Enabled: 1
+  m_Color:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_Size: 5
