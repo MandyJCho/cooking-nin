@@ -17,7 +17,7 @@ public class GameController : MonoBehaviour
 	void Start()
 	{
 		min = 0;
-		sec = 180;
+		sec = 320;
 		timeLeft = min * 60f + sec;
 		player = GetComponent<PlayerControls>();
 		endGame.enabled = false;
