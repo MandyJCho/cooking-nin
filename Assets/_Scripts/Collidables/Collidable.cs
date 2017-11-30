@@ -8,7 +8,7 @@ namespace Collidables
         int pointImpact { get; }
         ScoreController scoreController { get; set; }
 
-        // void OnCollisionEnter(Collision other);
+        void OnCollisionEnter(Collision other);
 
         IEnumerator Reaction();
 

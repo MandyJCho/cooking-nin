@@ -28,18 +28,9 @@ public class CollectibleCollision : MonoBehaviour, Collidable {
         if (other.gameObject.tag == "Player")
         {
             scoreController.score += pointImpact;
+			GameObject.Destroy(gameObject);
             StartCoroutine(Reaction());
-        }
-    }
-    
-    public void OnTriggerEnter(Collider other)
-    {
-        if (other.tag == "Player")
-        {
-            scoreController.score += pointImpact;
-            GameObject.Destroy(gameObject);
-            TOTAL--;
-            // StartCoroutine(Reaction());
+			TOTAL--;
         }
     }
 
