@@ -28,7 +28,7 @@ public class PlayerControls : MonoBehaviour
 		Cursor.lockState = CursorLockMode.Locked;
 
 		gameOn = true;
-		speed = 4.75f;
+		speed = 3.0f;		// default 4.75f
 		jumpVel = 7.0f;
 		//in the unity editor, freeze rotation on x and z axes on the rigidbody on the player object
 	}

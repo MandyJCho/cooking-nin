@@ -5,8 +5,8 @@ public class CameraControls : MonoBehaviour
 {
 	Vector2 mouseLook;					//keeps track of how much movement the camera has made
 	Vector2 smoothV;					//smooths mouse movement
-	public float sensitivity = 5.0f;	//mouse sensitivity
-	public float smoothing = 2.0f;		//how much mouse smoothing you want
+	public float sensitivity = 3.5f;	//mouse sensitivity - default 5.0f
+	public float smoothing = 2.0f;		//how much mouse smoothing you want - default 2.0f
 	private GameObject player;			//points to player object
 
 	//called before Update and after Awake
