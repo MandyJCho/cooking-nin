@@ -39,16 +39,21 @@ public class GameController : MonoBehaviour
 		else
 		{
 			Debug.Log(CollectibleCollision.TOTAL);
-			if (CollectibleCollision.TOTAL == 0)
-				endGame.text = "CONGRATULATIONS!\nItadakimasu!";
-			else 
-				endGame.text = "Time ran out!\nGame Over!";
+			if (CollectibleCollision.TOTAL == 0) {
+				endGame.text = "CONGRATULATIONS!\nItadakimasu!\nPress Escape to Quit";
+			}
+			else {
+				endGame.text = "Time ran out!\nGame Over!\nPress Escape to Quit";
+			}
 	        
 			displayTimer.text = "Time : 0:00";
 			player.gameOn = false;
 			endGame.enabled = true;
 		}
-
+		//exit the game if escape is pressed
+		if (Input.GetKeyDown (KeyCode.Escape)) {
+			Application.Quit();
+		}
 	    
 	}
 }

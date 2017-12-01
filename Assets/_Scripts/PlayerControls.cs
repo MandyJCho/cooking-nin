@@ -70,8 +70,8 @@ public class PlayerControls : MonoBehaviour
 
 			transform.Translate (strafe, 0, translation);
 
-			//get the mouse back by hitting escape key
-			if (Input.GetKeyDown ("escape")) {
+			//get the mouse back by hitting enter key
+			if (Input.GetKeyDown (KeyCode.Return)) {
 				Cursor.lockState = CursorLockMode.None;
 			}
 
